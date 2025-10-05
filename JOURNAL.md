@@ -10,8 +10,13 @@ This is my journal of the design and building process of **Panic Board**.
 You can view this journal in more detail on **Hack Club Blueprint** [here](https://blueprint.hackclub.com/projects/199).
 
 
-## 10/5/2025 - Schematic + Footprints  
+## 10/5/2025 1:37 PM - Schematic + Footprints  
 
 I spent around 1 hour doing the schematic. The reason it took me long is because at first I tried using a pico, but then realized that its not needed since the xiao has enough pins. I spent some time configuring the footprints, and I deleted and remade everything 2 times beacause I had a challenge with myself to finish the schematic with no external help.![image.png](https://blueprint.hackclub.com/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6NTI1LCJwdXIiOiJibG9iX2lkIn19--d34370bd21c884041d0b4422b40b8fa4598f1e45/image.png)
+  
+
+## 10/5/2025 1:39 PM - Created the PCB layout  
+
+I also finished the PCB layout after configuring the footprints. I used the measure tool to make sure everything is okay. I really like seeing this come to life, with no help! I still have to route it (which I have no idea how to do). I might change the layout so the USB is on the right side![image.png](https://blueprint.hackclub.com/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6NTI2LCJwdXIiOiJibG9iX2lkIn19--44f7dd49a1a0203f408b4da6862f3131e6586fdf/image.png)
   
 
