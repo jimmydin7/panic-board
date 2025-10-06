@@ -20,3 +20,9 @@ I spent around 1 hour doing the schematic. The reason it took me long is because
 I also finished the PCB layout after configuring the footprints. I used the measure tool to make sure everything is okay. I really like seeing this come to life, with no help! I still have to route it (which I have no idea how to do). I might change the layout so the USB is on the right side![image.png](https://blueprint.hackclub.com/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6NTI2LCJwdXIiOiJibG9iX2lkIn19--44f7dd49a1a0203f408b4da6862f3131e6586fdf/image.png)
   
 
+## 10/6/2025 - Routed the PCB  
+
+I spent some time learning to route - at first I did the same lines from both sides, but then I undestood I only had to route from one side. After doing it from the front side, I saw that it was pretty easy. Now I can finally say that I finished the panic board!
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6NzM4LCJwdXIiOiJibG9iX2lkIn19--29f9507b88b427ad574a9d7b6bf29967feaae1e9/image.png)
+  
+
